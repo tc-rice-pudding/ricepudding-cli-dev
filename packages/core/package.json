@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "bin": {
+    "ricepudding-cli-dev":"bin/index.js"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from core\""
   },
