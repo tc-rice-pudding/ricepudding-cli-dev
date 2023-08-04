@@ -1,6 +1,6 @@
 {
   "name": "@ricepudding-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "> TODO: description",
   "author": "粽子 <76830149+1105389168@users.noreply.github.com>",
   "homepage": "",
@@ -14,12 +14,12 @@
     "lib"
   ],
   "bin": {
-    "ricepudding-cli-dev":"bin/index.js"
+    "ricepudding-cli-dev": "bin/index.js"
   },
   "scripts": {
     "test": "echo \"Error: run tests from core\""
   },
   "dependencies": {
-    "@ricepudding-cli-dev/utils": "^1.0.1"
+    "@ricepudding-cli-dev/utils": "^1.0.2"
   }
 }
